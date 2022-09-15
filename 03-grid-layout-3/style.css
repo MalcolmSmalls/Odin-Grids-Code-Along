@@ -92,6 +92,8 @@
 
 .footer {
   background-color: #393f4d;
+  grid-row:4;
+  grid-column:1 / span 2;
 }
 
 .footer p {
